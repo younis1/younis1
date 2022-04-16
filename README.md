@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @younis1
-- 👀 I’m interested in algorithmics
+- 👀 I’m interested in algorithmics, and logical games
 - 🌱 I’m currently learning data mining, software design
 - 📫 You can reach me on younis.mamoun2001@gmail.com
 
